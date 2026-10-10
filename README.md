@@ -6,7 +6,7 @@ SniperWatch puts a "CURRENT STREAM SNIPER" callout on your stream when you or a 
 Get `SniperWatch-win-Setup.exe` from the latest entry on the [Releases page](../../releases). Windows 10 or 11, 64-bit. No admin rights needed; it installs for your user only.
 
 ## "Windows protected your PC"
-The beta installer is not yet code-signed, so Windows SmartScreen shows a blue warning the first time. Click **More info**, then **Run anyway**. (Screenshots: `docs/smartscreen-1.png`, `docs/smartscreen-2.png`.)
+The beta installer is not yet code-signed, so Windows SmartScreen shows a blue warning the first time. Click **More info**, then **Run anyway**.
 
 ## First run
 1. SniperWatch opens its dashboard at http://localhost:17890/ and starts a short setup: your channel, the overlay link for OBS, a connection check and your commands.
