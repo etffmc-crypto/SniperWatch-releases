@@ -16,6 +16,9 @@ The beta installer is not yet code-signed, so Windows SmartScreen shows a blue w
 
 SniperWatch lives in the tray (near the clock). Double-click the icon for the dashboard; right-click for the menu.
 
+## Keep it private until you're ready
+Turn off **Show on screen** (Status tab, tray menu, or Ctrl+Alt+Shift+O) and the overlay stays blank. `!sniper` still works: callouts show only on your dashboard and under Recent callouts. Flip it back on whenever you want viewers to see them.
+
 ## What data is sent
 - Nothing, unless you turn on **Send anonymous usage statistics** (setup wizard or Settings). Then small event records (app started, a callout fired on which platform, a command ignored, an error type) go to the authors. Never names, channel names, chat text or settings. Full list in Settings → the privacy policy link.
 - **Send a report** on the About tab sends the diagnostics text, your note and, only if you tick it, today's log file.
